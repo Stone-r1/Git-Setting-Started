@@ -43,3 +43,4 @@ Basically same except for pushing it to github
 ## Task - 4
 Everything is present on the following screen
 ![Command Preview](images/7.png)
+![Command Preview](images/9.png)
